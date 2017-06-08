@@ -14336,9 +14336,9 @@ span.category_itemtaxpostage {font-size:10px;} /* 送料・税込の非表示 */
 span.category_itemprice {color:#bf0000;font-size:16px;font-weight:bold; display:block;} /* 価格 */
 table{z-index:0;} 
 span.category_itemprice:before{content:""\[rn]"
-9-[rn]
 9-bottom:15px;[rn]
 9-bottom:15px;[rn]
-9-[rn]
-9-[rn]
 9-size:12px;color:#d32323;}[rn]
+9-wrap:break[rn]
+9-width:0px 0px 0px 3px;[rn]
+9-style:solid;[rn]
