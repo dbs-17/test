@@ -7,3 +7,12 @@
 7,www.emonoshop.top
 8,www.fmpartsshop.top
 9,www.ninamewshop.top
+10,www.ainekusushop.top
+11,www.ancelloshop.top
+12,www.assistoneshop.top
+13,www.avalancheshop.top
+14,www.cvlifeshop.top
+15,www.eishop.top
+16,www.emonoshop.top
+17,www.fmpartsshop.top
+18,www.ninamewshop.top
