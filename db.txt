@@ -7,3 +7,14 @@
 7,www.emonoshop.top
 8,www.fmpartsshop.top
 9,www.ninamewshop.top
+10,www.autowayshop.top
+11,www.customsshop.top
+12,www.ehjshop.top
+13,www.ganbareokusanshop.top
+14,www.maluzenshop.top
+15,www.nekusushop.top
+16,www.protectionshop.top
+17,www.redushop.top
+18,www.shop4ushop.top
+19,www.tenkomorishop.top
+20,www.yatohshop.top
